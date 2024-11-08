@@ -29,3 +29,17 @@ the grid view in that includes all the KPI’s according to the grid view to mak
 -  Mortgage holders receive the highest loan funding, indicating potential prioritization of borrowers with long-term housing commitments.
 -  Further Analysis: Assess loan repayment performance across these categories to identify potential risk or high-performing segments.
 -  Deeper Insights: Examine additional demographic or financial metrics, such as borrower income levels, to better understand credit allocation strategies.
+# Received Amount Analysis
+- This report provides an analysis of the total amount received in loan repayments across different dimensions such as month, employee length, purpose, term, and house ownership. This analysis offers valuable insights into repayment trends and the most common categories receiving payments.
+-  Loan repayments gradually increase over the year, with a peak in December, possibly due to end-of-year financial activities or seasonal effects.
+-  Loan repayments are highest among employees with a longer employment history, indicating a correlation between job stability and loan repayment amounts.
+-  The bulk of received amounts are for debt consolidation and credit card purposes, emphasizing the high repayment activity in categories aimed at managing and reducing debt.
+-  Loans with a 60-month term generate more repayments, possibly due to larger loan amounts or extended payment plans.
+-   Mortgage holders contribute the largest repayment amounts, suggesting that borrowers with mortgages might have a stronger ability or need to make repayments.
+  # Skills Gained From The Project
+  - Data Analysis and Interpretation
+  - Data Visualization
+  - Dashboard Design and Layout
+  - Pivot Table
+  - Storytelling with Data
+  
