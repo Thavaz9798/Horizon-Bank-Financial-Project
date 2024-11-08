@@ -22,3 +22,10 @@ the grid view in that includes all the KPI’s according to the grid view to mak
 - Total Amount Received: $473.1M, with MTD at $58.1M and MOM growth of 15.8%.
 - Average Interest Rate: 12.05%, with MTD at 13.5% and MOM at 10.3%.
 - Average Debt-to-Income (DTI) Ratio: 13.33%, with MTD at 13.67% and MOM at 3.2%.
+# Funded Amount Analayis
+- This report provides an analysis of the total loan amount allocated across various categories. The categories include loan amounts by employee length, loan purpose, and house ownership status. The data highlights the distribution of loan funding to give insights into key areas such as the most funded purposes and employee demographics receiving loans.
+-  The largest loan amount is allocated to employees with over 10 years of service, indicating higher credit allocation for individuals with longer work histories.
+-  Credit card and debt consolidation purposes dominate loan funding, showing that a significant portion of funds is used for managing existing debt and credit obligations.
+-  Mortgage holders receive the highest loan funding, indicating potential prioritization of borrowers with long-term housing commitments.
+-  Further Analysis: Assess loan repayment performance across these categories to identify potential risk or high-performing segments.
+-  Deeper Insights: Examine additional demographic or financial metrics, such as borrower income levels, to better understand credit allocation strategies.
