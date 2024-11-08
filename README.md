@@ -15,5 +15,5 @@ the grid view in that includes all the KPI’s according to the grid view to mak
 - The average loan interest rate, the number of loan applications we receive overall, the cost spent on the application, the amount we earn from the loan amount, and the average debt to income ratio
 - We categorize items such as good and poor loans. For example, a good loan indicates that the amount has been paid in full, whereas a poor loan indicates that the amount has not been paid in whole. Keep an eye out for the bad loan.
 - Next, we carefully examine the loan application and the amount that has been fully repaid to the bank, much like we do with the financed amount  Interset rate, amount received, and DTI (debt to income ratio)
-- # Application Analysis
-- 
+-
+-
