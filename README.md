@@ -10,3 +10,4 @@ but they cannot be summarize in a way How much we got received ,How much we fund
 The loan and How many applicants we provide the loan, how much the average interest rate 
 like these type of the confusion faced by the horizon bank and also, Want to see  all the things in 
 the grid view in that includes all the KPI’s according to the grid view to make the data driven decision making and access the health of our loan port folio
+# Summary Analysis
